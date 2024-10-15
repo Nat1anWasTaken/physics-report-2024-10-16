@@ -5,15 +5,15 @@ Powered by [Slidev](https://sli.dev/)
 
 ## Usage
 
-Installation
+### Installing
 ```sh
 pnpm install
 ```
 
-Run
+### Running
 ```sh
 pnpm run dev
 ```
 
-Export to PDF
+### Exporting
 See [Exporting](https://sli.dev/guide/exporting) on Slidev's documentations.
