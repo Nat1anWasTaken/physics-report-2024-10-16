@@ -11,10 +11,9 @@
     "@slidev/cli": "^0.50.0-beta.3",
     "@slidev/theme-bricks": "^0.25.0",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest",
-    "slidev-theme-penguin": "^2.3.0",
-    "slidev-theme-takahashi": "^1.0.0",
-    "slidev-theme-vuetiful": "^0.3.1",
     "vue": "^3.5.10"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.48.0"
   }
 }
