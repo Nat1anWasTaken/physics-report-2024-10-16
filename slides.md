@@ -1,6 +1,6 @@
 ---
 title: 物理探究與實作
-theme: default
+theme: bricks
 ---
 
 # 物理探究與實作
